@@ -1,0 +1,2 @@
+# Python-top250-
+在PyCharm集成开发环境中使用python语言爬取豆瓣电影Top250电影信息，并做出简单数据分析
